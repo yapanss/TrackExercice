@@ -1,0 +1,32 @@
+{
+  "name": "trackex",
+  "version": "1.0.0",
+  "description": "A freecodecamp backend project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yapanss/TrackExercice.git"
+  },
+  "keywords": [
+    "freecodecamp",
+    "api"
+  ],
+  "author": "Assi Yapo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yapanss/TrackExercice/issues"
+  },
+  "homepage": "https://github.com/yapanss/TrackExercice#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.4",
+    "dotenv": "^6.0.0",
+    "express": "^4.16.3",
+    "mongodb": "^3.1.1",
+    "mongoose": "^5.2.7"
+  }
+}

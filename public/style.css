@@ -1,0 +1,21 @@
+/*body {
+	background-color: yellow;
+}*/
+/*.jumbotron {
+	background-color: 
+}*/
+
+hr {
+	height: 5px;
+	background-color: darkblue;
+}
+
+label {
+	font-size: 1.3em;
+	color: darkblue;
+}
+
+legend {
+	font-family: Cursive;
+	font-size: 1.5em;
+}
